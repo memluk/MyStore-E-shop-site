@@ -1,5 +1,5 @@
 "use strict";
-const couchDB = "http://memluk:12CouchDB89!@127.0.0.1:5984";
+const couchDB = "http://user:password@127.0.0.1:5984";
 
 // WEBSERVER
 const formidable = require("formidable");
